@@ -1,0 +1,48 @@
+body{
+margin: 0px;
+background-color: black;
+}
+#banner{
+width: 360px;
+height: 100px;
+}
+#tabela{
+color: #911a91;
+border-color: #00ffff;
+width: 360px;
+text-align: center;
+}
+#txt{
+color: red;
+}
+#txt2{
+color: red;
+}
+#img1{
+width: 360px;
+height: 300px;
+}
+#txt3{
+color: red;
+}
+#div2{
+display: none;
+}
+#link1{
+color: #00ffff;
+}
+#img2{
+width: 260px;
+height: 120px;
+position: absolute;
+left: 50px;
+}
+#txt4{
+color: red;
+position: absolute;
+top: 250px;
+left: 60px;
+}
+#div3{
+display: none;
+}
